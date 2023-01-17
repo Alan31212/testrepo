@@ -1,4 +1,2 @@
-# testrepo
-for demo purpose
-my first repo
-hi 
+Lab 1
+Hi my name is Alan
